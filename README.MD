@@ -14,5 +14,6 @@ design/sqls/base-table-values.sql
 见目录：design/doc
 
 ## 3、技术栈
-spring
+>spring
 maven
+extjs
