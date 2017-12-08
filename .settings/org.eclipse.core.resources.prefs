@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebRoot/resources=UTF-8
+encoding//WebRoot/resources/js/header.js=UTF-8
+encoding//WebRoot/resources/js/login.js=UTF-8
+encoding//WebRoot/resources/js/main.js=UTF-8
+encoding//design/sqls/base-table-values.sql=GB2312
+encoding//src/config/ibatis/jdbc.properties=UTF-8
+encoding//src/config/others/messages_zh_CN.properties=UTF-8
